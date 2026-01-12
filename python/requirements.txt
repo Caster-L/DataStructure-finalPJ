@@ -1,0 +1,8 @@
+# Python强化学习环境依赖
+
+# 核心依赖
+numpy>=1.20.0
+torch>=1.10.0
+
+# 强化学习框架（使用gymnasium替代gym）
+gymnasium>=0.29.0
